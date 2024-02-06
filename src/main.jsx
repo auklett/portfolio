@@ -9,8 +9,6 @@ import "@fontsource/audiowide";
 import "@fontsource/quicksand";
 import "@fontsource/press-start-2p";
 
-import { BrowserRouter } from 'react-dom/client'
-
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
