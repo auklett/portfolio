@@ -66,10 +66,22 @@
 }
 
 @media screen and (max-width: 830px) {
+
     .container{
-        flex-direction: column-reverse;
+        flex-wrap: wrap;
+        flex-direction: column-reverse; 
     }
     .content{
+        width: 100%;
         align-items: center;
+    }
+    .title{
+        font-size: min(60px, 12vw);
+    }
+    .description{
+        font-size: min(30px,8vw);
+    }
+    .heroImg{
+        padding-bottom: 20px;
     }
 }
