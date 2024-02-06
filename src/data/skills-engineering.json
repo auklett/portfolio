@@ -1,0 +1,23 @@
+[
+    {
+      "title": "MATLAB",
+      "imageSrc": "skills/matlab-logo.png"
+    },
+    {
+      "title": "Fusion 360",
+      "imageSrc": "skills/fusion-360-logo.png"
+    },
+    {
+      "title": "Arduino",
+      "imageSrc": "skills/arduino-logo.png"
+    },
+    {
+      "title": "Ansys",
+      "imageSrc": "skills/ansys-logo.png"
+    },
+    {
+      "title": "3D Printing",
+      "imageSrc": "skills/3d-printing-logo.png"
+    }
+]
+  

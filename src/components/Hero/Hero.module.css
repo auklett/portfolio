@@ -1,0 +1,75 @@
+@import "../../vars.css";
+
+.container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    z-index: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: var(--color-text);
+    z-index: 1;
+}
+
+.title{
+    font-size: 60px;
+    font-weight: 300;
+    margin-bottom: 30px;
+    font-family: var(--font-press-start);
+}
+
+.description{
+    font-size: 30px;
+    font-family: var(--font-quicksand);
+    margin-bottom: 50px;
+}
+
+.contactBtn{
+    text-decoration: none;
+    background-color: var(--color-secondary);
+    color: var(--color-dark);
+    border-radius: 100px;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 20px 25px;
+    box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
+}
+
+.heroImg{
+    width: 40%;
+    z-index: 1;
+
+    animation-name: growshrink;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: cubic-bezier(0.2, 1, 0.22, 1);
+}
+
+@keyframes growshrink {
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(0.75);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+
+@media screen and (max-width: 830px) {
+    .container{
+        flex-direction: column-reverse;
+    }
+    .content{
+        align-items: center;
+    }
+}

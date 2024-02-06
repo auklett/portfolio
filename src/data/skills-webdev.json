@@ -1,0 +1,31 @@
+[
+    {
+      "title": "React",
+      "imageSrc": "skills/react-logo.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript-logo.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html-logo.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css-logo.png"
+    },
+    {
+      "title": "Django",
+      "imageSrc": "skills/django-logo.png"
+    },
+    {
+      "title": "Gitlab",
+      "imageSrc": "skills/gitlab-logo.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma-logo.png"
+    }
+]
+  

@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Microsoft Office",
+      "imageSrc": "skills/ms-office-logo.png"
+    },
+    {
+      "title": "G Suite",
+      "imageSrc": "skills/gsuite-logo.png"
+    },
+    {
+      "title": "Harvard CS50's Intro to AI",
+      "imageSrc": "skills/harvard-logo.png"
+    },
+    {
+      "title": "Google Data Analytics",
+      "imageSrc": "skills/google-logo.png"
+    },
+    {
+      "title": "Scuba Diver (1-star)",
+      "imageSrc": "skills/scuba-logo.png"
+    }
+]
+  

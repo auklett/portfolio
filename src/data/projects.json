@@ -1,0 +1,27 @@
+[
+  {
+    "title": "World Population Dashboard",
+    "imageSrc": "projects/population_dashboard.png",
+    "description": "Interactive population dashboard using Power BI, BigQuery API, SQL, and Python.",
+    "demo": "https://github.com/auklett/Population-Dashboard"
+  },
+  {
+    "title": "CAPES Week Virtual Exhibit",
+    "imageSrc": "projects/capes-week.png",
+    "description": "I made the loading animations and the welcome screen using HTML, CSS, and JavaScript.",
+    "demo": "https://cwvirtualexhibit.upcapesportal.org/"
+  },
+  {
+    "title": "CAPES Portal",
+    "imageSrc": "projects/capes-portal.png",
+    "description": "I was the former tech lead of the opportunities page of the CAPES Portal Back-end team. Python Django was used for the back-end.",
+    "demo": "https://upcapesportal.org/"
+  },
+  {
+    "title": "Transport Data Logger",
+    "imageSrc": "projects/TDL.png",
+    "description": "Transport data logger equipped with GPS, IMU, SD card, etc. Software used: Fusion 360, Arudino, MATLAB",
+    "demo": "https://github.com/auklett/TDL"
+  }
+
+]
