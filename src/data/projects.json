@@ -22,6 +22,12 @@
     "imageSrc": "projects/TDL.png",
     "description": "Transport data logger equipped with GPS, IMU, SD card, etc. Software used: Fusion 360, Arudino, MATLAB",
     "demo": "https://github.com/auklett/TDL"
+  },
+  {
+    "title": "Stock Prediction",
+    "imageSrc": "projects/S&P500_3.png",
+    "description": "Prediction of 5 of the most famous stock market indices (S&P 500, FTSE, Dow, Nasdaq, and Russell) using Python and XGBoost.",
+    "demo": "https://github.com/auklett/stock-indices"
   }
 
 ]
